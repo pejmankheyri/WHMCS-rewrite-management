@@ -15,7 +15,7 @@ use Illuminate\Database\Capsule\Manager as Capsule;
 function rewrite_management_config() {
 	$configarray = array(
 		'name' => 'Rewrite Management', 
-		'version' => '1.0.0', 
+		'version' => '1.0.1', 
 		'author' => 'pejman kheyri', 
 		'description' => 'Monthly Rewrite Management Values', 
 		'language' => 'english',  		
